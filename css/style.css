@@ -31,7 +31,7 @@ body{
     flex-wrap: wrap;
 }
 .company-logo h1{
-    font-family: 'Lobster', cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .nav-containers ul{
     display: flex;
